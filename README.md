@@ -14,7 +14,7 @@
 >
 > **添加喜马拉雅极速版支持**(python版)
 
-1. 支持手动执行，具体在Actions中选中要执行的Workflows后再在右侧可以看到Run workflow，点击即可运行此workflow。
+1. 支持手动执行，具体在Actions中选中要执行的Workflows后再在右侧可以看到Run workflow，点击即可运行此workflow。    
 
 2. 嫌上一步麻烦的，也可以直接点击一下star，你会发现所有的workflow都已执行。
 
